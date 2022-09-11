@@ -12,7 +12,7 @@
 
 - 🌱 For Now, am acquiring the **JavaScrpit and Framework**
 
-- 📝 My articles available on <a href = "https://www.c-sharpcorner.com/members/anmol-arora4" target = _blank >C Sharp Corner </a>
+- 📝 My articles available on <a href = "https://www.c-sharpcorner.com/members/anmol-arora4" target ="_blank" >C Sharp Corner </a>
 
 - 💬 Ask me about **HTML, CSS, JavaScript & Python**
 
