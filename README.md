@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Anmol</h1>
-<h3 align="center">A Passionate Programmer !</h3>
+<h1 align="center">Hello 👋🏻, I'm Anmol</h1>
+<h3 align="center">A Passionate Programmer 💫</h3>
 
 
 <img align = "right" alt = "Developer" width = "400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
@@ -10,7 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/aroraanmol99" target="blank"><img src="https://img.shields.io/twitter/follow/aroraanmol99?logo=twitter&style=for-the-badge" alt="aroraanmol99" /></a> </p>
 
-- 🔭 Currently I am working on **E-Commerce Website**
+- 👀 Currently I am working on **E-Commerce Website**
+
+- 📍 Final Year Bachelor In Computer Applications
 
 - 🌱 I’m acquiring the **JavaScrpit and Framework**
 
