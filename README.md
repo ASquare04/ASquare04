@@ -1,3 +1,5 @@
+<img src = "https://thumbs.dreamstime.com/b/cross-platform-development-concept-banner-header-engineer-developer-laptop-tablet-code-cross-platform-development-134629372.jpg">
+
 <h1 align="center">Hello 👋🏻, I'm Anmol</h1>
 <h3 align="center">A Passionate Programmer 💫</h3>
 
