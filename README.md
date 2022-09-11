@@ -6,17 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asquare04&label=Profile%20views&color=0e75b6&style=flat" alt="asquare04" /> </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/aroraanmol99" target="blank"><img src="https://img.shields.io/twitter/follow/aroraanmol99?logo=twitter&style=for-the-badge" alt="aroraanmol99" /></a> </p>
-
-- 👀 Currently I am working on **E-Commerce Website**
-
 - 📍 Final Year Bachelor In Computer Applications
 
-- 🌱 I’m acquiring the **JavaScrpit and Framework**
+- 👀 Currently I am working over **E-Commerce Website**
 
-- 📝 My articles available on [https://www.c-sharpcorner.com/members/anmol-arora4](https://www.c-sharpcorner.com/members/anmol-arora4)
+- 🌱 For Now, am acquiring the **JavaScrpit and Framework**
+
+- 📝 My articles available on <a href = "https://www.c-sharpcorner.com/members/anmol-arora4" target = _blank >C Sharp Corner /a>
 
 - 💬 Ask me about **HTML, CSS, JavaScript & Python**
 
