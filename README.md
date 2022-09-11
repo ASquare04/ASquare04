@@ -1,10 +1,8 @@
-<img src = "https://thumbs.dreamstime.com/b/cross-platform-development-concept-banner-header-engineer-developer-laptop-tablet-code-cross-platform-development-134629372.jpg">
-
 <h1 align="center">Hello 👋🏻, I'm Anmol</h1>
 <h3 align="center">A Passionate Programmer 💫</h3>
 
 
-<img align = "right" alt = "Developer" width = "400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align = "right" alt = "Developer" width = "500" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asquare04&label=Profile%20views&color=0e75b6&style=flat" alt="asquare04" /> </p>
 
