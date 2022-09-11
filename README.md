@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Programmer 💫</h3>
 
 
-<img align = "right" alt = "Developer" width = "500" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align = "right" alt = "Developer" width = "400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asquare04&label=Profile%20views&color=0e75b6&style=flat" alt="asquare04" /> </p>
 
