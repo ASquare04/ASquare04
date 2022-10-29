@@ -8,7 +8,7 @@
 
 - ⭐ Final Year Bachelor In Computer Applications
 
-- 👀 Currently I am working over **E-Commerce Website**
+- 👀 Currently I am working over **My JS Skills**
 
 - 🌱 For Now, am acquiring the **JavaScrpit and Framework**
 
