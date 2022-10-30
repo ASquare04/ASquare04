@@ -8,7 +8,7 @@
 
 - ⭐ Final Year Bachelor In Computer Applications
 
-- 🌱 For Now, am acquiring the **JavaScrpit and Framework**
+- 🌱 For Now, am acquiring the **Javascript and Framework**
 
 - 📝 My articles available on <a href = "https://www.c-sharpcorner.com/members/anmol-arora4" target ="_blank" >C Sharp Corner </a>
 
