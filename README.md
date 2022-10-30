@@ -12,7 +12,7 @@
 
 - 📝 My articles available on <a href = "https://www.c-sharpcorner.com/members/anmol-arora4" target ="_blank" >C Sharp Corner </a>
 
-- 💬 Ask me about **HTML, CSS, JavaScript & Python**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **aroraanmol722@gmail.com**
 
