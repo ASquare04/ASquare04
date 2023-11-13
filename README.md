@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asquare04&label=Profile%20views&color=0e75b6&style=flat" alt="asquare04" /> </p>
 
-- ⭐ Final Year Bachelor In Computer Applications
-
-- 🌱 For Now, am acquiring the **Javascript and Framework**
+- ⭐ Currently a Pre-Final year MCA student
 
 - 📝 My articles available on <a href = "https://www.c-sharpcorner.com/members/anmol-arora4" target ="_blank" >C Sharp Corner </a>
 
