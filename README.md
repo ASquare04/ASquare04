@@ -51,7 +51,7 @@
 
 
 
-<!--<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
     <div style="justify-content: center;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asquare04&show_icons=true&locale=en&layout=compact" alt="asquare04" />
     </div>
