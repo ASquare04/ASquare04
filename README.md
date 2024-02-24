@@ -43,11 +43,12 @@
 
 
 <div style="text-align: center;">
-    <div style="margin: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asquare04&" alt="asquare04" />
-        <img src="https://github-readme-stats.vercel.app/api?username=asquare04&show_icons=true&locale=en" alt="asquare04" />
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asquare04&" alt="asquare04" style="display: inline-block;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=asquare04&show_icons=true&locale=en" alt="asquare04" style="display: inline-block;" />
     </div>
 </div>
+
 
 
 <!--<div style="display: flex; justify-content: center;">
